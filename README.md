@@ -25,8 +25,8 @@ The goal of this project was to analyze and visualize how different products acr
 - Used a **calculated field** to compare actual profit with target profit.
 - Included metrics:
   - Total and **distinct count of products**
-  - **# of products meeting target profit**
-  - **% of products meeting target profit**
+  - **Number of products meeting target profit**
+  - **Percentage of products meeting target profit**
 - Combined all metrics into a **single worksheet** for a compact and comprehensive view.
 
 ---
@@ -58,6 +58,3 @@ The goal of this project was to analyze and visualize how different products acr
 - Highlights **profit trends** and **target achievements** across multiple dimensions.
 - Demonstrates how calculated fields and interactivity can enhance Tableau dashboards for decision-making.
 
----
-
-## 📂 Repository Structure
