@@ -58,3 +58,18 @@ The goal of this project was to analyze and visualize how different products acr
 - Highlights **profit trends** and **target achievements** across multiple dimensions.
 - Demonstrates how calculated fields and interactivity can enhance Tableau dashboards for decision-making.
 
+---
+
+## 🔗 How to Access the Dashboard
+
+### 🖥️ Option 1: View Online (Recommended)
+You can view the fully interactive dashboard directly on Tableau Public:  
+👉 [**View on Tableau Public**](https://public.tableau.com/app/profile/aditya.aggarwal5502/viz/BusinessAnalysis_17615171543890/BusinessAnalysis)
+
+---
+
+### 💾 Option 2: Open Locally
+1. Download the `.twbx` file from this repository:
+2. 2. Open it in **Tableau Desktop** or **Tableau Public Desktop**.
+3. Explore the three main visualizations interactively.
+
