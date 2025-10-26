@@ -70,6 +70,6 @@ You can view the fully interactive dashboard directly on Tableau Public:
 
 ### 💾 Option 2: Open Locally
 1. Download the `.twbx` file from this repository:
-2. 2. Open it in **Tableau Desktop** or **Tableau Public Desktop**.
+2. Open it in **Tableau Desktop** or **Tableau Public Desktop**.
 3. Explore the three main visualizations interactively.
 
